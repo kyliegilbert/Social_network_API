@@ -26,6 +26,8 @@ Mongoose package
 Github repository: [Kylie's Github](https://github.com/kyliegilbert)
 
 Video instuctional link:
+Viewing User routes: [User routes video](https://drive.google.com/file/d/1Edlow_HWw14UhCHP5uuukAMNns1WjrQC/view)
+Viewing Thought routes: [Thought routes video](https://drive.google.com/file/d/16eXBQzj0ujg1_LN35-5TqAJL12LEh0IH/view)
 
 ## Contact
 
